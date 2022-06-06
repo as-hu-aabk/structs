@@ -2,23 +2,23 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="437" started-at="2021-11-29T07:58:33Z" finished-at="2021-11-29T07:58:34Z">
+  <suite name="Command line suite" duration-ms="407" started-at="2022-01-13T07:53:25Z" finished-at="2022-01-13T07:53:25Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="437" started-at="2021-11-29T07:58:33Z" finished-at="2021-11-29T07:58:34Z">
+    <test name="Command line test" duration-ms="407" started-at="2022-01-13T07:53:25Z" finished-at="2022-01-13T07:53:25Z">
       <class name="org.apache.struts2.TestNGStrutsTestCaseTest$RunTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.apache.struts2.TestNGStrutsTestCaseTest$RunTest@67df1074]" name="setUp" is-config="true" duration-ms="431" started-at="2021-11-29T08:58:33Z" finished-at="2021-11-29T08:58:34Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.apache.struts2.TestNGStrutsTestCaseTest$RunTest@246a641d]" name="setUp" is-config="true" duration-ms="399" started-at="2022-01-13T08:53:25Z" finished-at="2022-01-13T08:53:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.apache.struts2.TestNGStrutsTestCaseTest$RunTest@67df1074]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-11-29T08:58:34Z" finished-at="2021-11-29T08:58:34Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="testRun()[pri:0, instance:org.apache.struts2.TestNGStrutsTestCaseTest$RunTest@67df1074]" name="testRun" duration-ms="0" started-at="2021-11-29T08:58:34Z" finished-at="2021-11-29T08:58:34Z">
+        <test-method status="PASS" signature="testRun()[pri:0, instance:org.apache.struts2.TestNGStrutsTestCaseTest$RunTest@246a641d]" name="testRun" duration-ms="1" started-at="2022-01-13T08:53:25Z" finished-at="2022-01-13T08:53:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRun -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.apache.struts2.TestNGStrutsTestCaseTest$RunTest@246a641d]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-01-13T08:53:25Z" finished-at="2022-01-13T08:53:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- org.apache.struts2.TestNGStrutsTestCaseTest$RunTest -->
     </test> <!-- Command line test -->
   </suite> <!-- Command line suite -->
